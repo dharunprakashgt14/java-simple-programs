@@ -8,7 +8,7 @@ public class Pyramid {
 
         for (int i = 1; i <= rows; i++) {
             for (int j = rows - i; j > 0; j--) {
-                System.out.print(" ");
+                 System.out.print(" ");
             }
 
             for (int k = 0; k < i; k++) {
